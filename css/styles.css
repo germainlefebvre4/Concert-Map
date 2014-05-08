@@ -1,0 +1,25 @@
+#map-canvas{
+	width: 100%;
+	height: 600px;
+	position: relative;
+	margin-top: -150px;
+}
+
+.map-infobulle{
+	width:200px;
+}
+
+.map-infobulle #more {
+	text-align:right;
+	font-weight:bold;
+	margin-right: 25px;
+}
+
+
+
+
+/* More and more */
+
+.comment-ce-fonctionne {
+	border: 0px solid black !important;
+}
